@@ -67,7 +67,7 @@ const FUENTES_DATA = {
     
     // Capas locales .geojson
     luminarias: "./luminarias_riv_wgs84.geojson",
-    arbolado: "./arbolado_ej_2.geojson",
+    arbolado: "./arboles_v2.geojson",
     vialidades: "./vialidad_ej_4.geojson",
     reclamos: "./reclamos_rv.geojson",
     cordon: "./cordon.geojson",
